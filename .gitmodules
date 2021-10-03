@@ -1,0 +1,3 @@
+[submodule "CG2021"]
+	path = CG2021
+	url = https://github.com/drslock/CG2021.git
